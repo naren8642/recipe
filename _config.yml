@@ -1,0 +1,12 @@
+# Site settings
+title: Pop Recipes
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  These are the recipes from pop appamma's silver recipe book.
+baseurl: "/recipe" # the subpath of your site, e.g. /blog/
+#url: "http://naren8642.github.io" # the base hostname & protocol for your site
+twitter_username: narenoftheus
+github_username:  naren8642
+
+# Build settings
+markdown: kramdown
