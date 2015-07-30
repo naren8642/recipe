@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Contents"
+date:   2015-07-10 09:04:31
+categories: recipe
+author: pop
+---
+
+![Page 1]({{ site.baseurl }}/recipe_images/pop/contents/c1.jpg)
+![Page 2]({{ site.baseurl }}/recipe_images/pop/contents/c2.jpg)
+![Page 3]({{ site.baseurl }}/recipe_images/pop/contents/c3.jpg)
+![Page 4]({{ site.baseurl }}/recipe_images/pop/contents/c4.jpg)
