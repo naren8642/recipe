@@ -6,9 +6,24 @@
 </description>
     <link>/recipe/</link>
     <atom:link href="/recipe/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Aug 2015 10:18:08 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2015 10:18:08 -0500</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2015 10:23:52 -0500</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2015 10:23:52 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Murukku</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sides/IMG_9814.JPG&quot; alt=&quot;Murukku&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 04:04:31 -0500</pubDate>
+        <link>/recipe/recipe/2015/09/01/murukku.html</link>
+        <guid isPermaLink="true">/recipe/recipe/2015/09/01/murukku.html</guid>
+        
+        <category>side</category>
+        
+        
+        <category>recipe</category>
+        
+      </item>
     
       <item>
         <title>Vendhaya elai pakoda</title>
@@ -143,21 +158,6 @@
         <guid isPermaLink="true">/recipe/recipe/2015/07/10/pudhina-pakoda.html</guid>
         
         <category>side</category>
-        
-        
-        <category>recipe</category>
-        
-      </item>
-    
-      <item>
-        <title>Poritha rasam</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/main/IMG_9736.JPG&quot; alt=&quot;Poritha rasam&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Jul 2015 04:04:31 -0500</pubDate>
-        <link>/recipe/recipe/2015/07/10/poritha-rasam.html</link>
-        <guid isPermaLink="true">/recipe/recipe/2015/07/10/poritha-rasam.html</guid>
-        
-        <category>main</category>
         
         
         <category>recipe</category>
