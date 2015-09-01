@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Murukku"
+date:   2015-09-01 09:04:31
+categories: recipe
+tags: side
+author: pop
+---
+
+![Murukku]({{ site.baseurl }}/recipe_images/pop/sides/IMG_9814.JPG)
