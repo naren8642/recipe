@@ -8,3 +8,4 @@ author: pop
 ---
 
 ![Chocolate Cake]({{ site.baseurl }}/recipe_images/pop/sweets/IMG_9864.JPG)
+![Chocolate Cake]({{ site.baseurl }}/recipe_images/pop/sweets/IMG_9868.JPG)
