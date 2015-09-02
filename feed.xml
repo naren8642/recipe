@@ -6,8 +6,8 @@
 </description>
     <link>/recipe/</link>
     <atom:link href="/recipe/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Sep 2015 22:30:32 -0500</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2015 22:30:32 -0500</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2015 09:39:03 -0500</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2015 09:39:03 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,6 +17,21 @@
         <pubDate>Tue, 01 Sep 2015 04:04:31 -0500</pubDate>
         <link>/recipe/recipe/2015/09/01/murukku.html</link>
         <guid isPermaLink="true">/recipe/recipe/2015/09/01/murukku.html</guid>
+        
+        <category>side</category>
+        
+        
+        <category>recipe</category>
+        
+      </item>
+    
+      <item>
+        <title>Mullangi Thokku</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sides/IMG_9813.JPG&quot; alt=&quot;Mullangi Thokku&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 04:04:31 -0500</pubDate>
+        <link>/recipe/recipe/2015/09/01/mullangi-thokku.html</link>
+        <guid isPermaLink="true">/recipe/recipe/2015/09/01/mullangi-thokku.html</guid>
         
         <category>side</category>
         
@@ -143,21 +158,6 @@
         <guid isPermaLink="true">/recipe/recipe/2015/07/10/ribbon-pakoda.html</guid>
         
         <category>side</category>
-        
-        
-        <category>recipe</category>
-        
-      </item>
-    
-      <item>
-        <title>Rava Kesari (Pineapple)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sweets/IMG_9771.JPG&quot; alt=&quot;Rava Kesari&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Jul 2015 04:04:31 -0500</pubDate>
-        <link>/recipe/recipe/2015/07/10/rava-kesari.html</link>
-        <guid isPermaLink="true">/recipe/recipe/2015/07/10/rava-kesari.html</guid>
-        
-        <category>sweet</category>
         
         
         <category>recipe</category>
