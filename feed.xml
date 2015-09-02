@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pop Recipes</title>
-    <description>These are the recipes from pop appamma&#39;s silver recipe book.
+    <description>These are the recipes from pop appamma's silver recipe book.
 </description>
     <link>/recipe/</link>
     <atom:link href="/recipe/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Sep 2015 10:36:26 -0500</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2015 10:36:26 -0500</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2015 22:30:32 -0500</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2015 22:30:32 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,6 +17,21 @@
         <pubDate>Tue, 01 Sep 2015 04:04:31 -0500</pubDate>
         <link>/recipe/recipe/2015/09/01/murukku.html</link>
         <guid isPermaLink="true">/recipe/recipe/2015/09/01/murukku.html</guid>
+        
+        <category>side</category>
+        
+        
+        <category>recipe</category>
+        
+      </item>
+    
+      <item>
+        <title>Gonkura Chutney</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sides/IMG_9876.JPG&quot; alt=&quot;Gonkura Chutney&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 04:04:31 -0500</pubDate>
+        <link>/recipe/recipe/2015/09/01/gonkura-chutney.html</link>
+        <guid isPermaLink="true">/recipe/recipe/2015/09/01/gonkura-chutney.html</guid>
         
         <category>side</category>
         
@@ -105,6 +120,21 @@
       </item>
     
       <item>
+        <title>Rishi Cookie</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sweets/IMG_9828.JPG&quot; alt=&quot;Rishi Cookie&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2015 04:04:31 -0500</pubDate>
+        <link>/recipe/recipe/2015/07/10/rishi-cookie.html</link>
+        <guid isPermaLink="true">/recipe/recipe/2015/07/10/rishi-cookie.html</guid>
+        
+        <category>sweet</category>
+        
+        
+        <category>recipe</category>
+        
+      </item>
+    
+      <item>
         <title>Ribbon pakoda</title>
         <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sides/IMG_9746.JPG&quot; alt=&quot;Ribbon pakoda&quot; /&gt;&lt;/p&gt;
 </description>
@@ -128,36 +158,6 @@
         <guid isPermaLink="true">/recipe/recipe/2015/07/10/rava-kesari.html</guid>
         
         <category>sweet</category>
-        
-        
-        <category>recipe</category>
-        
-      </item>
-    
-      <item>
-        <title>Ras Malai</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sweets/IMG_9718.JPG&quot; alt=&quot;Ras malai&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Jul 2015 04:04:31 -0500</pubDate>
-        <link>/recipe/recipe/2015/07/10/ras-malai.html</link>
-        <guid isPermaLink="true">/recipe/recipe/2015/07/10/ras-malai.html</guid>
-        
-        <category>sweet</category>
-        
-        
-        <category>recipe</category>
-        
-      </item>
-    
-      <item>
-        <title>Pudhina pakoda</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/recipe/recipe_images/pop/sides/IMG_9747.JPG&quot; alt=&quot;Pudhina pakoda&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Jul 2015 04:04:31 -0500</pubDate>
-        <link>/recipe/recipe/2015/07/10/pudhina-pakoda.html</link>
-        <guid isPermaLink="true">/recipe/recipe/2015/07/10/pudhina-pakoda.html</guid>
-        
-        <category>side</category>
         
         
         <category>recipe</category>
